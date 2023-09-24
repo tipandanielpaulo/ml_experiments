@@ -1,2 +1,1 @@
-# ml_experiments
-Experimenting on ML
+Some experiments on data analysis programs, mostly for NBA or PSE
